@@ -1,3 +1,6 @@
+// Rjay Fernandez Escalante
+// BSCS 1B
+// 202210276
 public class Alphabetic {
     public static void main(String[] args){
 
